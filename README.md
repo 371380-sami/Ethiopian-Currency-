@@ -1,1 +1,1 @@
-# Ethiopian-Currency-
+# Ethiopian-Currency-Identification-Project
